@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "834396542663",
+    "firebase_url": "https://mymarketmobile-16a08-default-rtdb.firebaseio.com",
+    "project_id": "mymarketmobile-16a08",
+    "storage_bucket": "mymarketmobile-16a08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834396542663:android:a5754324fb0fa59051d0e2",
+        "android_client_info": {
+          "package_name": "com.example.mymarketmobileversion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834396542663-nt06qoj9j8pkjqrjskrp0p9koj24gsd0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqp2fzpk31BHC95ooUPyzSl-vfDNc6krQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834396542663-nt06qoj9j8pkjqrjskrp0p9koj24gsd0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
